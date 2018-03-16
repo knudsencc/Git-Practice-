@@ -9,4 +9,5 @@ def feature_component():
 def frame_component():
     print("hello worlds")
 
-    
+ def new_component():
+    print("hello worlds")   
